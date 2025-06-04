@@ -49,7 +49,7 @@ python main.py
 This project is distributed under the **MIT** license.
 
 ---
-👤 **Author:** [neverwasbored](https://github.com/neverwasbored)
+👤 **Author:** [neverwasbored](https://github.com/neverwasbored) & @toncaptor
 
 ---
 
@@ -104,5 +104,5 @@ python main.py
 Этот проект распространяется под лицензией **MIT**.
 
 ---
-👤 **Автор:** [neverwasbored](https://github.com/neverwasbored)
+👤 **Автор:** [neverwasbored](https://github.com/neverwasbored) & @toncaptor
 
